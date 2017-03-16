@@ -1,6 +1,8 @@
 ﻿#!/usr/bin/python
 # -*- coding: iso-8859-15 -*-
 
+# ^ these two lines are important for parsing strange characters ^
+
 import array
 import json
 import os
